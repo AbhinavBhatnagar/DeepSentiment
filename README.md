@@ -3,9 +3,10 @@
 ### This is a python wrapper around Stanford's CoreNLP project V3.6.0 specifically for Senitment Analysis.
 
 ## Install
-```
-pip install DeepSentiment
-```
+You can clone the DeepSentiment but you would need a jar file to run the code, for that you can go to below mentioned bitbucket directory and get the file under DeepSentiment/DeepSentiment/resources and put it under the same directory.
+
+Download the complete jar file from https://bitbucket.org/crossviral/deepsentiment 
+
 
 ## Usage
 

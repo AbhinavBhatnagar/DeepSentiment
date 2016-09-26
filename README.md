@@ -7,9 +7,9 @@
 
 
 ## Install
-You can clone the DeepSentiment but you would need a jar file to run the code, for that you can go to below mentioned bitbucket directory and get the file under DeepSentiment/DeepSentiment/resources and put it under the same directory.
+You can clone the DeepSentiment but you would need a jar file to run the code, for that you can go to release tab or else below mentioned bitbucket directory and get the file under DeepSentiment/DeepSentiment/resources and put it under the same directory.
 
-Download the complete jar file from the release tab or https://bitbucket.org/crossviral/deepsentiment 
+Download the jar file from the release tab or https://bitbucket.org/crossviral/deepsentiment 
 
 
 ## Usage

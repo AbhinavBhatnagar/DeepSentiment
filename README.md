@@ -2,7 +2,7 @@
 
 ### This is a python wrapper around Stanford's CoreNLP project V3.6.0 specifically for Senitment Analysis.
 
-[![GitHub release](https://img.shields.io/badge/release-1.0.5-green.svg?maxAge=2592000)](https://github.com/AbhinavBhatnagar/DeepSentiment/releases) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/AbhinavBhatnagar/DeepSentiment/blob/master/LICENSE) 
+[![GitHub release](https://img.shields.io/badge/release-0.1.0-green.svg?maxAge=2592000)](https://github.com/AbhinavBhatnagar/DeepSentiment/releases) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/AbhinavBhatnagar/DeepSentiment/blob/master/LICENSE) 
 
 
 
